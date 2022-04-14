@@ -4,3 +4,7 @@ Since Laravel Fortify doesn't provide a pre-made blades for login,register and o
 
 # Installation
 Clone repository and move files to resources/views, then feel free to edit blades.
+
+# License
+
+Original Laravel/UI repository is https://github.com/laravel/ui, licensed under MIT By Taylor Otwell https://github.com/laravel/ui/blob/3.x/LICENSE.md
